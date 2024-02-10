@@ -2,7 +2,7 @@
 
 ## Description
 
-This Payments App is a comprehensive solution designed to facilitate seamless financial transactions between users. It features a unique account creation process that assigns a random balance to each new account, enhancing the element of surprise and engagement for users. The app ensures a secure and efficient way of sending money, guaranteeing that transactions are either fully completed or not processed at all, thus maintaining transaction integrity.
+This Payments App is a comprehensive solution designed to facilitate seamless financial transactions between users. It features a unique account creation process that assigns a random balance to each new account.  The app ensures a secure and efficient way of sending money, guaranteeing that transactions are either fully completed or not processed at all,so as to remove unfair methods.
 
 ### Features
 
@@ -27,15 +27,6 @@ This Payments App is a comprehensive solution designed to facilitate seamless fi
 - **Protected Routes:** Guards sensitive pages from unauthorized access, ensuring that users must be signed in to view certain content.
 - **Transaction Integrity:** By implementing atomic transactions, the app ensures that all financial operations are reliably processed.
 
-## Screenshots
-
-![App Screenshot](./frontend/src/assets/Screenshot1.png)
-![App Screenshot](./frontend/src/assets/Screenshot2.png)
-![App Screenshot](./frontend/src/assets/Screenshot3.png)
-![App Screenshot](./frontend/src/assets/Screenshot4.png)
-![App Screenshot](./frontend/src/assets/Screenshot5.png)
-![App Screenshot](./frontend/src/assets/Screenshot6.png)
-![App Screenshot](./frontend/src/assets/Screenshot7.png)
 
 ## Installation
 
@@ -78,7 +69,4 @@ This Payments App is a comprehensive solution designed to facilitate seamless fi
 
 This will set up both the frontend and backend parts of the Payments App. Ensure both the frontend and backend servers are running to use the app fully.
 
-## Contributing
 
-Contributions are welcome! If you have ideas for improvements or bug fixes, please follow the standard fork-and-pull request workflow. Make sure your code adheres to the existing style to maintain consistency.
-"# Payment-App" 
