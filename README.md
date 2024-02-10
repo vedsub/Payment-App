@@ -57,10 +57,10 @@ This Payments App is a comprehensive solution designed to facilitate seamless fi
    npm install
    ```
 3. Create a `.env` file in the root of the backend directory.
-4. Inside the `.env` file, specify your MongoDB URL and the port you wish to use for the server:
+4. Inside the `.env` file, specify your MongoDB URL and the port 3000 for the server:
    ```env
    MONGODB_URL=your_mongodb_connection_string_here
-   PORT=your_preferred_port
+   
    ```
 5. Start the backend server by running:
    ```sh
