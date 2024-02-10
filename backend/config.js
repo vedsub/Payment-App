@@ -1,3 +1,3 @@
-const JWT_SECRET = "jasdev";
+const JWT_SECRET = "VEDANT_SECRET";
 
 module.exports = JWT_SECRET;
