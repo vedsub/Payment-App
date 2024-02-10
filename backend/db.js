@@ -3,8 +3,7 @@ const dotenv = require("dotenv");
 const { string } = require("zod");
 dotenv.config();
 
-const uri = 'mongodb+srv://vedsub2003:sLMrHto5rj5i8ePm@cluster0.ahugriv.mongodb.net/';
-const dbName =    'user_app';
+mongoose.connect(process.env.URI);
 
 const historySchema = new mongoose.Schema({
   name: {
