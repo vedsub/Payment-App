@@ -1,4 +1,4 @@
-# Payments App README
+
 
 ## Description
 
@@ -68,5 +68,19 @@ PORT=your_preferred_port
    ```
 
 This will set up both the frontend and backend parts of the Payments App. Ensure both the frontend and backend servers are running to use the app fully.
+Below are a few screenshots illustrating the above functionalities:
+![Screenshot (131)](https://github.com/vedsub/Payment-App/assets/115373199/3da31e0c-8eec-4487-b9c8-eeb727d5cb23)
+
+![Screenshot (132)](https://github.com/vedsub/Payment-App/assets/115373199/bf9f1955-58ea-4819-81eb-e5ed968d9083)
+
+![Screenshot (133)](https://github.com/vedsub/Payment-App/assets/115373199/e60813b4-d8ca-48ec-8fa5-0406b99bffef)
+
+![Screenshot (134)](https://github.com/vedsub/Payment-App/assets/115373199/c7a3b29c-aa37-441b-a8a1-b3fe61dd7bfb)
+
+![Screenshot (136)](https://github.com/vedsub/Payment-App/assets/115373199/925ada37-c1f3-464c-8d7f-1f86caacd3ac)
+
+
+
+
 
 
